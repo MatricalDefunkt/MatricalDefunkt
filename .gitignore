@@ -30,3 +30,6 @@ bun.lockb
 
 #Nextjs
 .next
+
+# Visual Studio Code
+.vscode
