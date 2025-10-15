@@ -1,2 +1,2 @@
-[![Matrical's GitHub stats](https://github-stats-zeta-mauve.vercel.app/api?username=MatricalDefunkt&show_icons=true&theme=tokyonight)](https://github.com/MatricalDefunkt/)
-[![Top Langs](https://github-stats-zeta-mauve.vercel.app/api/top-langs/?username=MatricalDefunkt&layout=compact&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/MatricalDefunkt/)
+[![Matrical's GitHub stats](https://github-readme-stats.vercel.app/api?username=matricaldefunkt&show_icons=true&theme=tokyonight&card_width=500)](https://github.com/MatricalDefunkt/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=matricaldefunkt&layout=compact&langs_count=10&show_icons=true&theme=tokyonight&card_width=500)](https://github.com/MatricalDefunkt/)
